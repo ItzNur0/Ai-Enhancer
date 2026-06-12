@@ -1,0 +1,6 @@
+{
+  "name": "AI Enhancer",
+  "description": "Premium AI-powered Image Quality Enhancer for upscale, restoration, background removal, noise reduction, and custom generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
